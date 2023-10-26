@@ -1,0 +1,36 @@
+.elementor-1433 .elementor-element.elementor-element-2320a78 p.aux-breadcrumbs{transition:all ease-out 0.3s;}.elementor-1433 .elementor-element.elementor-element-1736bd8 > .elementor-container{min-height:400px;}.elementor-1433 .elementor-element.elementor-element-1736bd8 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:flex-start;align-items:flex-start;}.elementor-1433 .elementor-element.elementor-element-1736bd8:not(.elementor-motion-effects-element-type-background), .elementor-1433 .elementor-element.elementor-element-1736bd8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../images/IMG-20230612-WA0004.jpg");background-size:cover;}.elementor-1433 .elementor-element.elementor-element-1736bd8 > .elementor-background-overlay{background-color:var( --e-global-color-434e96be );opacity:0.59;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1433 .elementor-element.elementor-element-1736bd8{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-1433 .elementor-element.elementor-element-afeddc9 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0px;}.elementor-1433 .elementor-element.elementor-element-afeddc9 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-1433 .elementor-element.elementor-element-afeddc9 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-1433 .elementor-element.elementor-element-b7aef01 > .elementor-container{max-width:1200px;}.elementor-1433 .elementor-element.elementor-element-b7aef01 .elementor-heading-title{color:#FFFEFE;}.elementor-1433 .elementor-element.elementor-element-b7aef01{color:#FFFFFF;margin-top:13%;margin-bottom:0%;padding:0px 0px 0px 25px;}.elementor-1433 .elementor-element.elementor-element-4788a53 .aux-modern-heading-secondary{font-family:"Poppins", Sans-serif;font-size:50px;font-weight:600;text-transform:capitalize;line-height:77px;color:#0BC26F;margin:0px 0px 40px 0px;max-width:738px;}.elementor-1433 .elementor-element.elementor-element-4788a53 .aux-modern-heading-secondary .aux-head-highlight{font-size:68px;font-weight:800;text-transform:uppercase;font-style:italic;line-height:77px;color:#FFFFFF;text-shadow:0px 0px 1px #FFFDFD;margin:0px 60px 0px 0px;padding:0px 70px 0px 0px;}.elementor-1433 .elementor-element.elementor-element-4788a53 > .elementor-widget-container{margin:52px 0px 0px 0px;}.elementor-1433 .elementor-element.elementor-element-4788a53{z-index:5;animation-duration:2000ms;animation-delay:600ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-1433 .elementor-element.elementor-element-2040c33{--spacer-size:50px;}.elementor-1433 .elementor-element.elementor-element-5ccf160{padding:0px 30px 0px 30px;}.elementor-1433 .elementor-element.elementor-element-0b9f380 > .elementor-widget-container{margin:0px 10px 0px 0px;padding:10px 1px 1px 1px;}.elementor-1433 .elementor-element.elementor-element-0b9f380{width:var( --container-widget-width, 100% );max-width:100%;--container-widget-width:100%;--container-widget-flex-grow:0;}@media(min-width:768px){.elementor-1433 .elementor-element.elementor-element-1a0c4e7{width:10%;}.elementor-1433 .elementor-element.elementor-element-d6f2ca2{width:79.332%;}.elementor-1433 .elementor-element.elementor-element-c54cd7d{width:10%;}}@media(max-width:1024px){.elementor-1433 .elementor-element.elementor-element-1736bd8 > .elementor-container{min-height:700px;}.elementor-1433 .elementor-element.elementor-element-b7aef01{margin-top:0px;margin-bottom:0px;}.elementor-1433 .elementor-element.elementor-element-4788a53 .aux-modern-heading-secondary{font-size:32px;line-height:50px;margin:0px 0px 25px 0px;max-width:546px;}.elementor-1433 .elementor-element.elementor-element-4788a53 .aux-modern-heading-secondary .aux-head-highlight{font-size:49px;line-height:50px;}.elementor-1433 .elementor-element.elementor-element-4788a53 > .elementor-widget-container{margin:255px 0px 0px 0px;}}@media(max-width:767px){.elementor-1433 .elementor-element.elementor-element-afeddc9 > .elementor-element-populated{margin:48px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-1433 .elementor-element.elementor-element-4788a53 .aux-modern-heading-secondary{font-size:20px;max-width:298px;}.elementor-1433 .elementor-element.elementor-element-4788a53 .aux-modern-heading-secondary .aux-head-highlight{font-size:39px;}.elementor-1433 .elementor-element.elementor-element-4788a53 > .elementor-widget-container{margin:150px 0px 0px 0px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-4788a53 */.elementor-1433 .elementor-element.elementor-element-4788a53 .aux-modern-heading-secondary {
+    display: inline-block;
+}
+.elementor-1433 .elementor-element.elementor-element-4788a53 .aux-head-before, .elementor-1433 .elementor-element.elementor-element-4788a53 .aux-head-highlight{
+background: var(--e-global-color-secondary);
+background: -moz-linear-gradient(271deg, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+background: -webkit-linear-gradient(271deg, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+background: linear-gradient(271deg, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 100%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
+.elementor-1433 .elementor-element.elementor-element-4788a53 .aux-head-after{
+    display: inline-block;
+    position: relative;
+   background: var(--e-global-color-secondary);
+background: linear-gradient(271deg, var(--e-global-color-secondary) 0%, var(--e-global-color-primary) 46%);
+ -webkit-background-clip: text;
+ -webkit-text-fill-color: transparent;
+}
+.elementor-1433 .elementor-element.elementor-element-4788a53 .aux-head-after:after{
+    content: '';
+    width: 100%;
+    height: 32px;
+    background: rgb(255,223,51);
+    background: linear-gradient(180deg, rgba(255,223,51,1) 24%, rgba(238,180,17,1) 72%);
+    position: absolute;
+    left: -1px;
+    bottom: 13px;
+    z-index: -1;
+}
+@media only screen and (max-width: 1025px) {
+.elementor-1433 .elementor-element.elementor-element-4788a53 .aux-head-after:after{
+    height: 27px;
+    bottom: 0;
+}
+}/* End custom CSS */
