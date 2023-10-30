@@ -17,3 +17,4 @@ add, commit, and update in your branch before merging with the main
 
 site is now live:
 [pl-acresal.netlify.app]
+click!
